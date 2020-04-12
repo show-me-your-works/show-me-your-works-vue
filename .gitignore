@@ -20,4 +20,5 @@ yarn-error.log*
 *.sln
 *.sw?
 
-/public
+# Ignore folder just for vue
+public
